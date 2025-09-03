@@ -1,3 +1,2 @@
-srcs/.env
 *.env
-secrets/
+*.txt
